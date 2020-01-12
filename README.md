@@ -1,10 +1,15 @@
-# PED0319-XAQC-00048219
-Repositorio de trabajo para la materia de Programación de estructuras dinámicas (laboratorios) 
+# Laboratorios PED-0319 
 
-## Titulo 2
-* Primer articulo
+## Xavier Alessandro Quiñonez Del Cid
 
-### Titulo 3
-* Primer elemento
-* Segundo elemento
-* Tercer elemento
+## Laboratorio 01
+
+### Observaciones al instructor
+* Obs 1: Aclara las dudas correctamente
+* Obs 2: Usa lenguaje coherente y no confunde 
+* Obs 3: Se toma el timepo para aclarar las dudas como se debe y no deja las ideas en el aire
+
+##  Dificultades en ejercicios de tarea 
+* Dif 1: Tuve dificultad en poder subir el archivo a GitHub
+* Dif 2:  
+* Dif 3:
