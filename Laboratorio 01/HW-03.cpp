@@ -41,3 +41,5 @@ int isAlpha(string word)
     }
     
 }
+
+//finish the program
