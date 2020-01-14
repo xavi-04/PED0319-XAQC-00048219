@@ -58,3 +58,4 @@ void showSum(int arr[15]){
     }
     cout << "La suma de los multiplos de 7 del arreglo es la siguiente: " << suma << endl;
 }
+//finish the program
