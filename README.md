@@ -2,14 +2,14 @@
 
 ## Xavier Alessandro Quiñonez Del Cid
 
-## Laboratorio 01
+## Laboratorio 02
 
 ### Observaciones al instructor
-* Obs 1: Aclara las dudas correctamente
-* Obs 2: Usa lenguaje coherente y no confunde 
-* Obs 3: Se toma el tiempo para aclarar las dudas como se debe y no deja las ideas en el aire
+* Obs 1: El instructor da la clase correctamente y de forma clara
+* Obs 2: Esta justo a tiempo y aprovecha el tiempo
+* Obs 3: Pregunta a la clase si tenemos duda para que asi podamos aclarar todo y no nos quedemos con las dudas
 
 ##  Dificultades en ejercicios de tarea 
-* Dif 1: Tuve dificultad en poder subir el archivo a GitHub
-* Dif 2: Se me dificulto usar la plataforma al pricnipio pero le entiendo cada vez más gracias a las instrucciones del instructor
-* Dif 3: Me confundia con los comandas pero cada vez le entendia el orden y en que momento usarlos adecuadamente
+* Dif 1: A veces al usar GitHub al poner el comando push y actualizar la página en GitHub me sale otro usuario que no es el mio y no se como resolverlo aunque a veces se quita y otras no
+* Dif 2: Al moemtno de poner los comando y hacer los arreglos de las matrices para ponerlos ordenadamente y asi pueden enlazarse con las demas funciones y asi todo este bien
+* Dif 3: Aun tengo dificultad en algunas cosas de GitHub de actualizar el programa hacia al repositorio
