@@ -45,5 +45,6 @@ int main()
         else
             printf("La ecuación no tiene solucion\n");
     
+    //termina el programa
     return 0;
 }
