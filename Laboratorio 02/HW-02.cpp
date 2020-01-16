@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//entrada y salida en consola
 #include <string>
 #include <cmath>
 using namespace std;
