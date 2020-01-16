@@ -1,3 +1,4 @@
+//Realiza un registro que almacene la dirección de una persona
 #include <iostream>
 #include <string>
 using namespace std;

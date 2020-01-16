@@ -1,3 +1,4 @@
+//Realizar un programa que permita almacenar n cantidad de letras en un arreglo
 #include <iostream>
 using namespace std;
 
