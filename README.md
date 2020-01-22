@@ -5,11 +5,11 @@
 ## Laboratorio 02
 
 ### Observaciones al instructor
-* Obs 1: El instructor da la clase correctamente y de forma clara
+* Obs 1: El instructor da la clase correctamente 
 * Obs 2: Esta justo a tiempo y aprovecha el tiempo
-* Obs 3: Pregunta a la clase si tenemos duda para que asi podamos aclarar todo y no nos quedemos con las dudas
+* Obs 3: Tenia una duda, le levante la mano como dos veces o tres veces y no llego a mi lugar para atender mi duda
 
 ##  Dificultades en ejercicios de tarea 
-* Dif 1: A veces al usar GitHub al poner el comando push y actualizar la página en GitHub me sale otro usuario que no es el mio y no se como resolverlo aunque a veces se quita y otras no
-* Dif 2: Al moemtno de poner los comando y hacer los arreglos de las matrices para ponerlos ordenadamente y asi pueden enlazarse con las demas funciones y asi todo este bien
-* Dif 3: Aun tengo dificultad en algunas cosas de GitHub de actualizar el programa hacia al repositorio
+* Dif 1: Aún me confunden los ejercicios de recursión
+* Dif 2: Cuando estoy programando, se me dificulta como poner y en donde poner los códigos
+* Dif 3: Al usar unas funciones me dificulta lo que resulta que el programa no se ejecute
