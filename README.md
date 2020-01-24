@@ -5,11 +5,11 @@
 ## Laboratorio 02
 
 ### Observaciones al instructor
-* Obs 1: El instructor da la clase correctamente 
-* Obs 2: Esta justo a tiempo y aprovecha el tiempo
-* Obs 3: Tenia una duda, le levante la mano como dos veces o tres veces y no llego a mi lugar para atender mi duda
+* Obs 1: El instructor se da entender con sus explicaciones  
+* Obs 2: Esta justo a tiempo 
+* Obs 3: Resuelve dudas con claridad
 
 ##  Dificultades en ejercicios de tarea 
-* Dif 1: Aún me confunden los ejercicios de recursión
-* Dif 2: Cuando estoy programando, se me dificulta como poner y en donde poner los códigos
-* Dif 3: Al usar unas funciones me dificulta lo que resulta que el programa no se ejecute
+* Dif 1: Los ejercicios de pila se me difulta, al momento de conocer el lugar en especifico para colocar las            funciones en especifico para que se ejecute correctamente
+* Dif 2: Cuando estoy programando, se me dificulta cuando intento vincular las funciones con el main
+* Dif 3: Aún tengo algunas dudas acerca de colas para asi poder aplicarlas en VScode
