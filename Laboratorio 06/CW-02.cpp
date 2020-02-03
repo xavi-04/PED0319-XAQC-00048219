@@ -6,20 +6,19 @@ using namespace std;
 struct node
 {
     string product;
-    float prize;
+    float price;
     node *next;
 };
 
 void printMenu(void);
 string convertString(string product);
-node *addElement(node *list, string product, float prize);
-int searchStock(node *list, string product);
+node *addElement(node *list, string product, float price);
 
-int menu(void)
+int main(void)
 {
-
-    string product = " ";
-    float prize = 0;
+    node *list = NULL;
+    string product = "";
+    float price = 0;
     int option = 0;
     int auxStock = 0;
 
@@ -33,17 +32,16 @@ int menu(void)
         {
         case 1:
             cout << "Ingrese datos del producto" << endl;
-            cout << "NOmbre:\t";
+            cout << "Nombre:\t";
             cin >> product;
             cout << "Precio:\t";
-            cin >> prize;
+            cin >> price;
             product = convertString(product);
-            list = addElement(list, product, prize);
+            list = addElement(list, product, price);
             break;
-
         case 2:
             cout << "Ingrese el producto a buscar" << endl;
-            cout << "producto:\t";
+            cout << "Producto:\t";
             cin >> product;
             product = convertString(product);
 
@@ -52,16 +50,18 @@ int menu(void)
             (auxStock == 0) ? cout << "Sin stock" : cout << "Cantidad en stock:\t" << auxStock;
             break;
         case 0:
-            cout << "saliendo......." << endl;
+            cout << "Saliendo . . ." << endl;
             break;
         }
 
     } while (option != 0);
+
+    return 0;
 }
 
 string convertString(string product)
 {
-    string aux = " ";
+    string aux = "";
 
     for (int i = 0; i < product.length(); i++)
         aux += toupper(product[i]);
@@ -71,17 +71,20 @@ string convertString(string product)
 
 void printMenu(void)
 {
-
+    cout << "MENU PRINCIPAL" << endl;
+    cout << "1.\tAgregar producto" << endl;
+    cout << "2.\tBuscar producto" << endl;
+    cout << "0.\tSalir" << endl;
 }
 
-node *addElement(node *list, string product, float prize)
-{int searchStock(node *list, string product)
+node *addElement(node *list, string product, float price)
+{
     node *newNode = new node;
-    newNode->prize = prize;
+    newNode->price = price;
     newNode->product = product;
     newNode->next = NULL;
 
-    if (list)
+    if (!list)
         list = newNode;
     else
     {
@@ -89,13 +92,21 @@ node *addElement(node *list, string product, float prize)
 
         while (aux->next != NULL)
             aux = aux->next;
+
         aux->next = newNode;
     }
-
     return list;
 }
 
 int searchStock(node *list, string product)
 {
-
+    if (!list)
+        return 0;
+    else
+    {
+        if (product.compare(list->product) == 0)
+            return 1 + searchStock(list->next, product);
+        else
+            return 0 + searchStock(list->next, product);
+    }
 }
