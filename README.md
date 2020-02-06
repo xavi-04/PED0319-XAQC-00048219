@@ -2,14 +2,14 @@
 
 ## Xavier Alessandro Quiñonez Del Cid
 
-## Laboratorio 07
+## Laboratorio 08
 
 ### Observaciones al instructor
-* Obs 1: Se da a explicar de una manera ordena y clara ante la clase.
-* Obs 2: siempre a tiempo.
-* Obs 3: Resuelve las dudas con claridad.
+* Obs 1: Fuiste un gran instructor en el trayecto de los laboratorios.
+* Obs 2: Gracias por aclararme las dudas acerca de portafolio, laboratorios asi            como del proyecto final
+* Obs 3: Siempre fuiste compresible y coherente para explicarnos, aunque a veces           a la hora de programar en los lab se te iba la onda y spolo empezabas a           programar mientras nostros teniamos que escribir el triple de rapido              jejejeje pero a pesar de eso gran instructor
 
 ##  Dificultades en ejercicios de tarea 
-* Dif 1: Hacer listas, pilas y colas desde 0 se me dificulta aún.
-* Dif 2: Cuando estoy programando, se me dificulta cuando intento vincular las funciones con el main.
-* Dif 3: Aún tengo algunas dudas acerca de aplicar desde 0 pilas, colas y listas  para asi poder aplicarlas en VScode.
+* Dif 1: No se usar usar banderas
+* Dif 2: Se me dificulta no usar librerias y hacerlo desde cero
+* Dif 3: Los punteros pues se me dificulta aun pero tal vez me defenderia en               algunos casos escazos
